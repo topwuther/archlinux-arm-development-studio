@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Arm DS IDE 2022.0
+Exec="/opt/arm/developmentstudio-2022.0/bin/armds_ide"
+Icon=/opt/arm/developmentstudio-2022.0/sw/ide/icon.xpm
+Terminal=false
+Type=Application
+Categories=Development;
+StartupNotify=true
